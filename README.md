@@ -1,6 +1,7 @@
 # community-labeller
 
 This is a basic action that will label issues and pull request with a given label if the contributor is not a member of a given list of organisations.
+test action
 
 ## Warning
 
